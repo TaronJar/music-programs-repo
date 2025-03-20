@@ -1,12 +1,13 @@
 {
-  "title": "FL Studio 24.2.2 Build 4597",
-  "game_id": "004",
-  "torrent_link": "https://rutracker.org/forum/viewtopic.php?t=6647312",
-  "size": "1.07 GB",
-  "platform": "Windows (64bit)",
-  "release_date": "2025-02-05",
-  "description": "FL Studio 24.2.2 Build 4597 — это одна из лучших программ для создания музыки, с функциями записи, сведения, мастеринга, а также множеством синтезаторов и эффектов. Программа предназначена для создания треков любого стиля.",
-  "category": "Music Production",
-  "tablet": "Warez_Down",
-  "requirements": "Windows 10, 11 or later (64 Bit), 4GB of RAM, 4GB free disk space"
+  "name": "hydrasources",
+  "downloads": [
+    {
+      "title": "FL Studio 24.2.2 RePack",
+      "uris": [
+        "https://raw.githubusercontent.com/TaronJar/music-programs-repo/refs/heads/main/fl_studio.json"
+      ],
+      "fileSize": "1.07 GB",
+      "uploadDate": "2025-02-05T00:00:00.000Z"
+    }
+  ]
 }
