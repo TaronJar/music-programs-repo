@@ -1,5 +1,5 @@
 {
-    "name": "Источник",
+    "name": "Gamer",
     "downloads": [
         {
            "title": "S.T.A.L.K.E.R. 2 Heart of Chornobyl - Ultimate Edition [v 1.3 + DLC's] (2024) PC | RePack от селезень",
@@ -9,13 +9,6 @@
             "fileSize": "135.37 GB",
             "uploadDate": "2025-03-20T00:00:00.000Z"
         },
-        {
-            "title": "Mozilla Firefox - Последняя версия для Windows",
-            "uris": [
-                "magnet:?xt=urn:btih:12345abcdef12345abcdef12345abcdef12345&dn=Mozilla+Firefox+Latest+Version&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
-            ],
-            "fileSize": "50 MB",
-            "uploadDate": "2025-03-19T18:26:00.000Z"
-        }
+
     ]
 }
