@@ -10,5 +10,13 @@
             "uploadDate": "2025-03-19T18:26:00.000Z",
             "description": "Обновленная версия игры S.T.A.L.K.E.R. 2 с расширенным контентом и улучшенной графикой."
         }
+        {
+            "title": "Mozilla Firefox - Последняя версия для Windows",
+            "uris": [
+                "magnet:?xt=urn:btih:12345abcdef12345abcdef12345abcdef12345&dn=Mozilla+Firefox+Latest+Version&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet"
+            ],
+            "fileSize": "50 MB",
+            "uploadDate": "2025-03-19T18:26:00.000Z"
+        }
     ]
 }
